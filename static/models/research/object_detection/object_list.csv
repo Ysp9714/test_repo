@@ -1,0 +1,232 @@
+{
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_1.jpg": {
+        "0": {
+            "obj": 1,
+            "score": 0.9555659890174866,
+            "bbox": [
+                0.3591,
+                0.7093,
+                0.5296,
+                0.8033
+            ]
+        },
+        "1": {
+            "obj": 1,
+            "score": 0.9555659890174866,
+            "bbox": [
+                0.3591,
+                0.7093,
+                0.5296,
+                0.8033
+            ]
+        },
+        "2": {
+            "obj": 1,
+            "score": 0.9555659890174866,
+            "bbox": [
+                0.3591,
+                0.7093,
+                0.5296,
+                0.8033
+            ]
+        }
+    },
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_2.jpg": {
+        "0": {
+            "obj": 1,
+            "score": 0.9851657748222351,
+            "bbox": [
+                0.3718,
+                0.7188,
+                0.5068,
+                0.802
+            ]
+        },
+        "1": {
+            "obj": 1,
+            "score": 0.9851657748222351,
+            "bbox": [
+                0.3718,
+                0.7188,
+                0.5068,
+                0.802
+            ]
+        },
+        "2": {
+            "obj": 1,
+            "score": 0.9851657748222351,
+            "bbox": [
+                0.3718,
+                0.7188,
+                0.5068,
+                0.802
+            ]
+        }
+    },
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_3.jpg": {
+        "0": {
+            "obj": 1,
+            "score": 0.7687317132949829,
+            "bbox": [
+                0.427,
+                0.5645,
+                0.6204,
+                0.7147
+            ]
+        },
+        "1": {
+            "obj": 1,
+            "score": 0.7687317132949829,
+            "bbox": [
+                0.427,
+                0.5645,
+                0.6204,
+                0.7147
+            ]
+        },
+        "2": {
+            "obj": 1,
+            "score": 0.7687317132949829,
+            "bbox": [
+                0.427,
+                0.5645,
+                0.6204,
+                0.7147
+            ]
+        },
+        "3": {
+            "obj": 1,
+            "score": 0.7687317132949829,
+            "bbox": [
+                0.427,
+                0.5645,
+                0.6204,
+                0.7147
+            ]
+        }
+    },
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_4.jpg": {
+        "0": {
+            "obj": 2,
+            "score": 0.9998680353164673,
+            "bbox": [
+                0.5584,
+                0.4699,
+                0.8794,
+                0.6234
+            ]
+        }
+    },
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_5.jpg": {
+        "0": {
+            "obj": 2,
+            "score": 0.9323806166648865,
+            "bbox": [
+                0.2636,
+                0.03266,
+                0.3462,
+                0.09289
+            ]
+        }
+    },
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_6.jpg": {
+        "0": {
+            "obj": 2,
+            "score": 0.947697103023529,
+            "bbox": [
+                0.294,
+                0.01151,
+                0.384,
+                0.07595
+            ]
+        }
+    },
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_7.jpg": {
+        "0": {
+            "obj": 2,
+            "score": 0.987228512763977,
+            "bbox": [
+                0.512,
+                0.3962,
+                0.6753,
+                0.5306
+            ]
+        },
+        "1": {
+            "obj": 2,
+            "score": 0.987228512763977,
+            "bbox": [
+                0.512,
+                0.3962,
+                0.6753,
+                0.5306
+            ]
+        }
+    },
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_8.jpg": {
+        "0": {
+            "obj": 2,
+            "score": 0.7208026051521301,
+            "bbox": [
+                0.3846,
+                0.01699,
+                0.4751,
+                0.08152
+            ]
+        },
+        "1": {
+            "obj": 2,
+            "score": 0.7208026051521301,
+            "bbox": [
+                0.3846,
+                0.01699,
+                0.4751,
+                0.08152
+            ]
+        }
+    },
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_9.jpg": {
+        "0": {
+            "obj": 2,
+            "score": 0.9885995388031006,
+            "bbox": [
+                0.3038,
+                0.03817,
+                0.3724,
+                0.08468
+            ]
+        },
+        "1": {
+            "obj": 2,
+            "score": 0.9885995388031006,
+            "bbox": [
+                0.3038,
+                0.03817,
+                0.3724,
+                0.08468
+            ]
+        }
+    },
+    "C:/Users/ysp97/PycharmProjects/untitled1/static/models/research/object_detection/test_images\\image_pill_10.jpg": {
+        "0": {
+            "obj": 2,
+            "score": 0.9543012976646423,
+            "bbox": [
+                0.315,
+                0.0306,
+                0.3884,
+                0.07918
+            ]
+        },
+        "1": {
+            "obj": 2,
+            "score": 0.9543012976646423,
+            "bbox": [
+                0.315,
+                0.0306,
+                0.3884,
+                0.07918
+            ]
+        }
+    }
+}

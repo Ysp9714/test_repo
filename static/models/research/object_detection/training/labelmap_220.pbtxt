@@ -1,0 +1,59 @@
+item {
+    id: 1
+    name: 'left_hand'
+}
+
+item {
+    id: 2
+    name: 'right_hand'
+}
+
+item {
+    id: 3
+    name: 'bottle_open'
+}
+
+item {
+    id: 4
+    name: 'bottle_closed'
+}
+
+item {
+    id: 5
+    name: 'pill_green'
+}
+
+item {
+    id: 6
+    name: 'pill_yellow'
+}
+
+item {
+    id: 7
+    name: 'pill_orange'
+}
+
+item {
+    id: 8
+    name: 'pill_pink'
+}
+
+item {
+    id: 9
+    name: 'cup'
+}
+
+item {
+    id: 10
+    name: 'face'
+}
+
+item {
+    id: 11
+    name: 'mouth'
+}
+
+item {
+    id: 12
+    name: 'pill_1'
+}

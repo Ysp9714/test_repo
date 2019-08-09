@@ -1,0 +1,49 @@
+item {
+    id: 1
+    name: 'hand'
+}
+
+item {
+    id: 2
+    name: 'grab_bottle'
+}
+
+item {
+    id: 3
+    name: 'face'
+}
+
+item {
+    id: 4
+    name: 'mouth'
+}
+
+item {
+    id: 5
+    name: 'mouth_open'
+}
+
+item {
+    id: 6
+    name: 'bottle'
+}
+
+item {
+    id: 7
+    name: 'bottle_open'
+}
+
+item {
+    id: 8
+    name: 'cap'
+}
+
+item {
+    id: 9
+    name: 'pill'
+}
+
+item {
+    id: 10
+    name: 'cup'
+}
