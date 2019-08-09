@@ -3,6 +3,6 @@ from django.urls import path
 from .views import *
 
 urlpatterns = [
-    path('result/<int:camera_type>/', DetectionResult, name='DetectionResult'),
-    path('')
+    path('action_result/<int:camera_type>/', ActionResult, name='ActionResult'),
+    path('detection_result/<int:camera_type>/', DetectionResult, name='DetectionResult')
 ]
